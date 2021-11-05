@@ -1,10 +1,2 @@
 # edrums
-```plantuml
-@startuml
-class Piezo1
-class Piezo2
-class Edrums
-Piezo1 --|> Edrums
-Piezo2 --|> Edrums
-@enduml
-```
+![cached image](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/mackostya/edrums/main/diagram.txt)
